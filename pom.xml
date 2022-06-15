@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>info.maigo.lab.hello</groupId>
-  <artifactId>maigolab_hello</artifactId>
+  <groupId>io.openlena.lab.hello</groupId>
+  <artifactId>openlena_hello</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
-  <name>maigolab_hello</name>
+  <name>openlena_hello</name>
   <url>http://maven.apache.org</url>
 
   <build>
@@ -18,8 +18,8 @@
         <configuration>
           <mainClass>info.maigo.lab.hello.App</mainClass>
           <arguments>
-            <argument>niwasawa</argument>
-            <argument>maigolab</argument>
+            <argument>sleepred</argument>
+            <argument>openlena</argument>
           </arguments>
         </configuration>
       </plugin>
@@ -39,7 +39,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20170516</version>
+      <version>20211205</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/junit/junit -->
