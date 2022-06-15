@@ -1,5 +1,7 @@
-![example workflow](https://github.com/enlena615/java-hello-world-with-maven/actions/workflows/maven.yml/badge.svg)
-![Actions Status](https://github.com/enlena615/java-hello-world-with-maven/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/enlena615/java-hello-world-with-maven/actions/workflows/maven.yml/badge.svg) 
+[![Actions Status](https://github.com/enlena615/java-hello-world-with-maven/actions/workflows/maven.yml/badge.svg)](https://github.com/enlena615/
+java-hello-world-with-maven/actions)
+
 
 
 
