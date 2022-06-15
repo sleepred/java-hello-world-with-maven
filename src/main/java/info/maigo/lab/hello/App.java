@@ -3,7 +3,7 @@ package info.maigo.lab.hello;
 import org.json.*;
 import com.mashape.unirest.http.*;
 
-public class App2 {
+public class App {
 
   public static void main(String[] args) throws Exception {
     for (String name: args) {
